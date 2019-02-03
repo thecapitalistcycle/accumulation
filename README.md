@@ -4,7 +4,15 @@ This repository is for material related to Marx's General Law of Capitalist Accu
 
 https://www.marxists.org/archive/marx/works/1867-c1/ch25.htm#S4
 
+# Wages
+
+Wages are the price of the commodity labor power, regulated like any other by demand and supply, with a "natural price" or value at equilibrium.
+
+The precondition for capitalism arising historically from earlier modes of production is that a class of workers who do not have means of subsistence or production on which to live sell their labor power to a class of capitalists who own the wealth in money, means of subsistence and means of production. This precondition reproduces itself on an expanding scale because the workers end up paid enough to live but not to accumulate and so spend what they earn and so each period begins again with a working class that has nothing to sell but its labor power and a capitalist class that owns even more wealth. 
+
 ## Wages - Demand
+
+Determined by competition with machines
 
 https://thecapitalistcycle.files.wordpress.com/2018/09/bing_and_petersen_int_econ_papers_11_rational_wage.pdf
 
@@ -17,6 +25,20 @@ Need bib file with all above and below references (plus more later) in this repo
 Below are examples of references that should have been added directly into Zotero as should be easy to find using Zotero either by DOI or via Google Scholar.
 
 Eventually we should be able to semi-automate rough notes like this into Zotero.
+
+### Savings
+
+"To put it mathematically:
+the rate of accumulation is the independent, not the dependent
+variable; the rate of wages is the dependent, not the independent
+variable."
+
+"Accumulate ... that is Moses and the prophets"
+
+http://piketty.pse.ens.fr/files/Ramsey1928.pdf
+
+Long run survival (gambler's ruin) in Myron J Gordon "Finance, Investment and Macroeconomics", Edward Elgar 1994
+LCCIP 93-15393 ISBN 1 852578 910 7 pbk, 879 8 (hardback)
 
 #### via marxists.org
 
@@ -51,3 +73,7 @@ Cantillon_and_Ricardo_Effects.pdf
 
 Harald Hagemann and Hans-Michael Trautwein, The European J. of the history of economic thought,
 5:2 292-316 Summer 1988
+
+## Wages - Supply
+
+Far too complex to do realistic analysis but can avoid the usual passive fodder theory and at least have a backward bending supply curve just based on cost of free disposable time that corresponds to the same biological time preferences as for capitalists with the rich having different savings and leisure "preferences" simply because "they have more money" (Great Gatsby).
