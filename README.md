@@ -65,9 +65,15 @@ Poole, 2009, Mark Harris 2010.
 
 Economica Volume 9 issue 34 1942 [doi 10.2307%2F2549806] F. A. v. Hayek -- The Ricardo Effect.pdf
 
+doi 10.2307/2549806
+
 Economica Volume 70 issue 277 2003 [doi 10.1111%2F1468-0335.t01-1-00275] Christian Gehrke -- The Ricardo Effect- Its Meaning and Validity.pdf
 
+10.1111/1468-0335.t01-1-00275
+
 Economica Volume 44 issue 176 1977 [doi 10.2307%2F2553569] Shlomo Maital and Patricia Haswell -- Why Did Ricardo (Not) Change His Mind_ On Money and Machinery.pdf
+
+10.2307%2F2553569
 
 Cantillon_and_Ricardo_Effects.pdf
 
