@@ -73,7 +73,7 @@ Economica Volume 70 issue 277 2003 [doi 10.1111%2F1468-0335.t01-1-00275] Christi
 
 Economica Volume 44 issue 176 1977 [doi 10.2307%2F2553569] Shlomo Maital and Patricia Haswell -- Why Did Ricardo (Not) Change His Mind_ On Money and Machinery.pdf
 
-10.2307%2F2553569
+10.2307/2553569
 
 Cantillon_and_Ricardo_Effects.pdf
 
