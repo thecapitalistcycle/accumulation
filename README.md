@@ -83,3 +83,9 @@ Harald Hagemann and Hans-Michael Trautwein, The European J. of the history of ec
 ## Wages - Supply
 
 Far too complex to do realistic analysis but can avoid the usual passive fodder theory and at least have a backward bending supply curve just based on cost of free disposable time that corresponds to the same biological time preferences as for capitalists with the rich having different savings and leisure "preferences" simply because "they have more money" (Great Gatsby).
+
+## David Bensusan-Dutt
+
+Two references in Whitaker seem to be origin for "good natured marxist" becoming more disguised with Champernowne.
+Will list more refs here.
+Also mentioned in Geoff Harcourt Cambridge Controversies on Capital Theory and Joan Robinson Essay on Marxian Economics.
